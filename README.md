@@ -111,5 +111,56 @@
 
 </div>
 <br>
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+<!--- 1 proyects -->
+  <td width="25%" align="center">
+    <p align="center">
+	<a href='https://postimg.cc/ts54jjfv' target='_blank'><img src='https://i.postimg.cc/0NgM75Cv/initial-view.png' border='0' alt='initial-view'/></a>
+      </p>
+    <p align="center">
+	    <a href="https://github.com/RichardDxd/Store-Swift" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+         
+</td>
+<!--- 2 proyects -->
+<td width="25%" align="center">
+    <p align="center">
+	<a href='https://postimg.cc/ts54jjfv' target='_blank'><img src='https://i.postimg.cc/0NgM75Cv/initial-view.png' border='0' alt='initial-view'/></a>
+      </p>
+    <p align="center">
+	    <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">   
+</td>
+  <!--- 3 proyects -->
+  <td width="25%" align="center">
+   <p align="center">
+	<a href='https://postimg.cc/ts54jjfv' target='_blank'><img src='https://i.postimg.cc/0NgM75Cv/initial-view.png' border='0' alt='initial-view'/></a>
+      </p>
+    <p align="center">
+	    <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+</td>
+<!--- 4 proyects-->
+   <td width="25%" align="center">
+    <p align="center">
+	<a href='https://postimg.cc/ts54jjfv' target='_blank'><img src='https://i.postimg.cc/0NgM75Cv/initial-view.png' border='0' alt='initial-view'/></a>
+      </p>
+    <p align="center">
+	    <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 <br>
 <br>
