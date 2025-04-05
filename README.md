@@ -133,7 +133,7 @@
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">   
 </td>
   <!--- 3 proyects -->
-  <td width="25%" align="center">
+  <!---<td width="25%" align="center">
    <p align="center">
 	<a href='https://postimg.cc/ts54jjfv' target='_blank'><img src='https://i.postimg.cc/0NgM75Cv/initial-view.png' border='0' alt='initial-view'/></a>
       </p>
@@ -142,13 +142,13 @@
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
 </td>
 <!--- 4 proyects-->
-   <td width="25%" align="center">
+   <!---<td width="25%" align="center">
     <p align="center">
 	<a href='https://postimg.cc/ts54jjfv' target='_blank'><img src='https://i.postimg.cc/0NgM75Cv/initial-view.png' border='0' alt='initial-view'/></a>
       </p>
     <p align="center">
 	    <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">-->
 </td>
   
 </tr>
